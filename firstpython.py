@@ -1,2 +1,3 @@
 #Display the output
-print ("new python file")
+a = 7 // float(2)
+print (a)
